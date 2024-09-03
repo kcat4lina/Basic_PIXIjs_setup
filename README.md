@@ -12,8 +12,8 @@ This project demonstrates a basic setup for PixiJS 7.4.0 using TypeScript and We
 
 1. Clone this repository
 2. Install dependencies: `npm install`
-3. Run the development server: `npm start`
-4. Open your browser and navigate to `http://localhost:8080`
+3. Run the development server: `npm run start`
+4. Open your browser and navigate to `http://localhost:1234`
 
 ## Building for Production
 
